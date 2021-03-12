@@ -1,0 +1,20 @@
+{
+  "name": "remote-git-tags-cli",
+  "description": "CLI for remote-git-tags",
+  "version": "0.0.0",
+  "author": {
+    "name": "Raine Revere",
+    "url": "https://github.com/raineorshine"
+  },
+  "bin": {
+    "remote-git-tags": "bin.js"
+  },
+  "engines": {
+    "node": ">=12"
+  },
+  "homepage": "",
+  "license": "ISC",
+  "dependencies": {
+    "remote-git-tags": "^3.0.0"
+  }
+}
